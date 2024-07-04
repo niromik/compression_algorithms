@@ -1,6 +1,7 @@
 # compression algorithms
 
 Реализация алгоритма Хаффмана и LZW алгоритма.
+
 Файлы:
 - compression algorithms.cpp - main, а также функции чтения, записи и т.п.
 - HaffmanTree.h - структура класса HaffmanTree.
