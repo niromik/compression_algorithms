@@ -46,7 +46,7 @@ void HT::deleteNodes(Node* knot) {
 		deleteNodes(knot->right);
 		knot->left = nullptr;
 		knot->right = nullptr;
-		//delete knot; FIXME: unknown object, возможно это даже не нужно
+		//delete knot; FIXME: unknown object
 	}
 }
 
